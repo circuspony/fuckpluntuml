@@ -1,4 +1,6 @@
 @startuml
+!include us.puml
+
 Mom-> Dad: i hate plantuml
 Bob -> Alice : i hate plantuml
 @enduml
