@@ -1,0 +1,6 @@
+@startuml
+!include ./us.puml
+
+Mom-> Dad: i hate plantuml 2
+Bob -> Alice : i hate plantuml 2
+@enduml
